@@ -1,0 +1,639 @@
+{
+    "AcademicYear": "2021-2022",
+    "Programme": "B.Tech.",
+    "Branches": [
+        {
+            "Branch": "Computer Science and Engineering",
+            "Regulation": "R18",
+            "Classes": [
+                {
+                    "Class": "IV Year",
+                    "Section": "A",
+                    "Semester": "II",
+                    "RoomNoRotation": {
+                        "Thursday": "B209",
+                        "Friday": "B407",
+                        "Saturday": "B412"
+                    },
+                    "TimeTable": {
+                        "Monday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "L",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Tuesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "U",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Wednesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "N",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Thursday": [
+                            "OE-IV",
+                            "PE-V",
+                            "PE-V",
+                            "C",
+                            "PROJECT SEMINARS",
+                            "PROJECT SEMINARS",
+                            "LIB"
+                        ],
+                        "Friday": [
+                            "PE-VI",
+                            "OE-IV",
+                            "OE-IV",
+                            "H",
+                            "MTP",
+                            "ECA / CCA",
+                            "ECA / CCA"
+                        ],
+                        "Saturday": [
+                            "PE-V",
+                            "OE-IV",
+                            "PE-VI",
+                            "SPORTS",
+                            "MENTORING",
+                            "MENTORING"
+                        ]
+                    },
+                    "Courses": [
+                        {
+                            "CourseName": "Information Retrieval Systems",
+                            "Schedule": [
+                                "THU B209",
+                                "SAT B314"
+                            ],
+                            "Coordinator": "T GNANA PRAKASH"
+                        },
+                        {
+                            "CourseName": "Cloud Computing",
+                            "Schedule": [
+                                "B412"
+                            ],
+                            "Coordinator": "M.VENKET KRISHNA RAO"
+                        },
+                        {
+                            "CourseName": "Distributed Trust and Blockchain Technologies",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "K BHEEMA LINGAPPA"
+                        },
+                        {
+                            "CourseName": "Data Visualization",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "DR.M.RAVI KANTH"
+                        },
+                        {
+                            "CourseName": "Cognitive Engineering",
+                            "Schedule": [
+                                "FRI B407",
+                                "SAT 412"
+                            ],
+                            "Coordinator": "JAHNAVI"
+                        }
+                    ],
+                    "Project": {
+                        "Title": "Project – II",
+                        "Coordinators": [
+                            "Dr.CH.SURESH",
+                            "V.BABY"
+                        ]
+                    },
+                    "OpenElective": {
+                        "Courses": [
+                            {
+                                "CourseName": "INTELLIGENT TRANSPORTATION SYSTEM",
+                                "Coordinator": "Ms.K.Sai sahithya",
+                                "CourseCode": "18OE1EI04"
+                            },
+                            {
+                                "CourseName": "ROBOT PROGRAMMING AND INTELLIGENT CONTROL SYSTEMS",
+                                "Coordinator": "Dr.S.Senthil Kumar",
+                                "CourseCode": "18OE1HS04"
+                            },
+                            {
+                                "CourseName": "FOREIGN LANGUAGE FRENCH",
+                                "Coordinator": "Mr.K.ashok"
+                            },
+                            {
+                                "CourseName": "CONNECTED AND AUTONOMOUS VEHICLES",
+                                "Coordinator": "MR.T.S.KRISHNA KUMAR"
+                            },
+                            {
+                                "CourseName": "ENERGY MANAGEMENT AND CONSERVATION",
+                                "Coordinator": "Dr.P.Naresh",
+                                "CourseCode": "18OE1AE04"
+                            },
+                            {
+                                "CourseName": "REVERSE ENGINEERING",
+                                "Coordinator": "Dr.M.Venkata Ramana",
+                                "CourseCode": "180E1MEO5"
+                            },
+                            {
+                                "CourseName": "3D PRINTING AND DESIGN",
+                                "Coordinator": "DR.K.JAYA PRAKASH"
+                            }
+                        ]
+                    },
+                    "ClassCoordinator": "J.VAMSINADH"
+                },
+                {
+                    "Class": "IV Year",
+                    "Section": "B",
+                    "Semester": "II",
+                    "RoomNoRotation": {
+                        "Thursday": "B412",
+                        "Friday": "B408",
+                        "Saturday": "B314"
+                    },
+                    "TimeTable": {
+                        "Monday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "L",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Tuesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "U",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Wednesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "N",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Thursday": [
+                            "OE-IV",
+                            "PE-V",
+                            "PE-V",
+                            "C",
+                            "PROJECT SEMINARS",
+                            "PROJECT SEMINARS",
+                            "LIBRARY"
+                        ],
+                        "Friday": [
+                            "PE-VI",
+                            "PE-VI",
+                            "OE-IV",
+                            "H",
+                            "ECA / CCA",
+                            "ECA / CCA",
+                            "ECA / CCA"
+                        ],
+                        "Saturday": [
+                            "PE-V",
+                            "OE-IV",
+                            "PE-VI",
+                            "SPORTS",
+                            "SPORTS",
+                            "LIBRARY"
+                        ]
+                    },
+                    "Courses": [
+                        {
+                            "CourseName": "Information Retrieval Systems",
+                            "Schedule": [
+                                "THU B209",
+                                "SAT B314"
+                            ],
+                            "Coordinator": "T.GNANA PRAKASH"
+                        },
+                        {
+                            "CourseName": "Cloud Computing",
+                            "Schedule": [
+                                "B412"
+                            ],
+                            "Coordinator": "M.VENKET KRISHNA RAO"
+                        },
+                        {
+                            "CourseName": "Distributed Trust and Blockchain Technologies",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "K.BHEEMA LINGAPPA"
+                        },
+                        {
+                            "CourseName": "Data Visualization",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "M.RAVI KANTH"
+                        },
+                        {
+                            "CourseName": "Cognitive Engineering",
+                            "Schedule": [
+                                "FRI B407",
+                                "SAT 412"
+                            ],
+                            "Coordinator": "JAHNAVI"
+                        }
+                    ],
+                    "Project": {
+                        "Title": "Project – II",
+                        "Coordinators": [
+                            "Dr.P.V.SIVA KUMAR",
+                            "K.HARI PRIYA"
+                        ]
+                    },
+                    "OpenElective": {
+                        "Courses": [
+                            {
+                                "CourseName": "INTELLIGENT TRANSPORTATION SYSTEM",
+                                "Coordinator": "Ms.K.Sai sahithya",
+                                "CourseCode": "18OE1CE04"
+                            },
+                            {
+                                "CourseName": "ROBOT PROGRAMMING AND INTELLIGENT CONTROL SYSTEMS",
+                                "Coordinator": "Dr.S.Senthil Kumar",
+                                "CourseCode": "18OE1EI04"
+                            },
+                            {
+                                "CourseName": "FOREIGN LANGUAGE FRENCH",
+                                "Coordinator": [
+                                    "MR.K.ASHOK",
+                                    "MRV.KRIsHNA",
+                                    "MS.M.SHOBANA"
+                                ],
+                                "CourseCode": "180E1HS04"
+                            },
+                            {
+                                "CourseName": "CONNECTED AND AUTONOMOUS VEHICLES",
+                                "Coordinator": "MR.T.S.KRISHNA KUMAR",
+                                "CourseCode": "18OE1AE04"
+                            },
+                            {
+                                "CourseName": "ENERGY MANAGEMENT AND CONSERVATION",
+                                "Coordinator": "Dr.P.Naresh",
+                                "CourseCode": "18OE1EE04"
+                            },
+                            {
+                                "CourseName": "REVERSE ENGINEERING",
+                                "Coordinator": "Dr.M.Venkata Ramana",
+                                "CourseCode": "18OE1ME04"
+                            },
+                            {
+                                "CourseName": "3D PRINTING AND DESIGN",
+                                "Coordinator": "DR.K.JAYA PRAKASH",
+                                "CourseCode": "180E1MEO5"
+                            }
+                        ]
+                    },
+                    "ClassCoordinator": "M.VENKET KRISHNA RAO"
+                },
+                {
+                    "Class": "IV Year",
+                    "Section": "C",
+                    "Semester": "II",
+                    "RoomNoRotation": {
+                        "Monday": "A111 (LAB)",
+                        "Tuesday": "A111 (LAB)",
+                        "Wednesday": "A111 (LAB)"
+                    },
+                    "TimeTable": {
+                        "Monday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "L",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Tuesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "U",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Wednesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "N",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Thursday": [
+                            "OE-IV",
+                            "PE-V",
+                            "PE-V",
+                            "C",
+                            "MENTORING",
+                            "SPORTS",
+                            "SPORTS"
+                        ],
+                        "Friday": [
+                            "PE-VI",
+                            "PE-VI",
+                            "OE-IV",
+                            "H",
+                            "ECA / CCA",
+                            "ECA / CCA",
+                            "ECA / CCA"
+                        ],
+                        "Saturday": [
+                            "PE-V",
+                            "OE-IV",
+                            "PE-VI",
+                            "PROJECT SEMINARS",
+                            "PROJECT SEMINARS",
+                            "LIBRARY"
+                        ]
+                    },
+                    "Courses": [
+                        {
+                            "CourseName": "Information Retrieval Systems",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "SUDHEER BENARJEE",
+                            "CourseCode": "18PE1CS14"
+                        },
+                        {
+                            "CourseName": "Cloud Computing",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "N.SANDEEP CHAITANYA",
+                            "CourseCode": "18PE1IT05"
+                        },
+                        {
+                            "CourseName": "Distributed Trust and Blockchain Technologies",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "K BHEEMA LINGAPPA",
+                            "CourseCode": "18PE1CS17"
+                        },
+                        {
+                            "CourseName": "Data Visualization",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "Dr.M. RAVI KANTH",
+                            "CourseCode": "18PE1IT15"
+                        },
+                        {
+                            "CourseName": "Cognitive Engineering",
+                            "Schedule": [
+                                "FRI B408",
+                                "SAT 314"
+                            ],
+                            "Coordinator": "S.SUDESHNA",
+                            "CourseCode": "18PE1CS19"
+                        }
+                    ],
+                    "Project": {
+                        "Title": "Project – II",
+                        "Coordinators": [
+                            "DR.S.NAGINI",
+                            "DR.B.V.KIRANMAYEE",
+                            "Dr. D.N.Vasundara"
+                        ],
+                        "CourseCode": "18PW4CS06"
+                    },
+                    "OpenElective": {
+                        "Courses": [
+                            {
+                                "CourseName": "INTELLIGENT TRANSPORTATION SYSTEM",
+                                "Coordinator": "Ms.K.Sai sahithya",
+                                "CourseCode": "18OE1CE04"
+                            },
+                            {
+                                "CourseName": "ROBOT PROGRAMMING AND INTELLIGENT CONTROL SYSTEMS",
+                                "Coordinator": "Dr.S.Senthil Kumar",
+                                "CourseCode": "18OE1EI04"
+                            },
+                            {
+                                "CourseName": "FOREIGN LANGUAGE FRENCH",
+                                "Coordinator": [
+                                    "MR.K.ASHOK",
+                                    "MRV.KRIsHNA",
+                                    "MS.M.SHOBANA"
+                                ],
+                                "CourseCode": "180E1HS04"
+                            },
+                            {
+                                "CourseName": "CONNECTED AND AUTONOMOUS VEHICLES",
+                                "Coordinator": "MR.T.S.KRISHNA KUMAR",
+                                "CourseCode": "18OE1AE04"
+                            },
+                            {
+                                "CourseName": "ENERGY MANAGEMENT AND CONSERVATION",
+                                "Coordinator": "Dr.P.Naresh",
+                                "CourseCode": "18OE1EE04"
+                            },
+                            {
+                                "CourseName": "REVERSE ENGINEERING",
+                                "Coordinator": "Dr.M.Venkata Ramana",
+                                "CourseCode": "18OE1ME04"
+                            },
+                            {
+                                "CourseName": "3D PRINTING AND DESIGN",
+                                "Coordinator": "DR.K.JAYA PRAKASH",
+                                "CourseCode": "180E1MEO5"
+                            },
+                            {
+                                "CourseName": "INTELLIGENT WASTE MANAGEMENT AND RECYCLING SYSTEM",
+                                "Coordinator": "Mr.PVS Raghunadh",
+                                "CourseCode": "18OE1CE08"
+                            }
+                        ]
+                    },
+                    "ClassCoordinator": "SUDHEER BENARJEE"
+                },
+                {
+                    "Class": "IV Year",
+                    "Section": "D",
+                    "Semester": "II",
+                    "RoomNoRotation": {
+                        "LAB": "A113"
+                    },
+                    "TimeTable": {
+                        "Monday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "L",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Tuesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "U",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Wednesday": [
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "N",
+                            "PROJECT WORK",
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Thursday": [
+                            "OE-IV",
+                            "PE-V",
+                            "PE-V",
+                            "C",
+                            "LIB",
+                            "SPORTS",
+                            "SPORTS"
+                        ],
+                        "Friday": [
+                            "PE-VI",
+                            "PE-VI",
+                            "OE-IV",
+                            "H",
+                            "MENTORING",
+                            "ECA",
+                            "CCA"
+                        ],
+                        "Saturday": [
+                            "PE-V",
+                            "OE-IV",
+                            "PE-VI",
+                            "PROJECT SEMINARS",
+                            "PROJECT SEMINARS",
+                            "LIBRARY"
+                        ]
+                    },
+                    "Courses": [
+                        {
+                            "CourseName": "Information Retrieval Systems",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "SUDHEER BENARJEE",
+                            "CourseCode": "18PE1CS14"
+                        },
+                        {
+                            "CourseName": "Cloud Computing",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "N.SANDEEP CHAITANYA",
+                            "CourseCode": "18PE1IT05"
+                        },
+                        {
+                            "CourseName": "Distributed Trust and Blockchain Technologies",
+                            "Schedule": [
+                                "A111"
+                            ],
+                            "Coordinator": "K BHEEMA LINGAPPA",
+                            "CourseCode": "18PE1CS17"
+                        },
+                        {
+                            "CourseName": "Data Visualization",
+                            "Schedule": [
+                                "A113"
+                            ],
+                            "Coordinator": "Dr.M. RAVI KANTH",
+                            "CourseCode": "18PE1IT15"
+                        },
+                        {
+                            "CourseName": "Cognitive Engineering",
+                            "Schedule": [
+                                "FRI B408",
+                                "SAT 314"
+                            ],
+                            "Coordinator": "S.SUDESHNA",
+                            "CourseCode": "18PE1CS19"
+                        }
+                    ],
+                    "Project": {
+                        "Title": "Project – II",
+                        "Coordinators": [
+                            "N.V.SAILAJA",
+                            "K.BHAGYA REKHA"
+                        ],
+                        "CourseCode": "18PW4CS06"
+                    },
+                    "OpenElective": {
+                        "Courses": [
+                            {
+                                "CourseName": "INTELLIGENT TRANSPORTATION SYSTEM",
+                                "Coordinator": "Ms.K.Sai sahithya",
+                                "CourseCode": "18OE1CE04"
+                            },
+                            {
+                                "CourseName": "ROBOT PROGRAMMING AND INTELLIGENT CONTROL SYSTEMS",
+                                "Coordinator": "Dr.S.Senthil Kumar",
+                                "CourseCode": "18OE1EI04"
+                            },
+                            {
+                                "CourseName": "FOREIGN LANGUAGE FRENCH",
+                                "Coordinator": [
+                                    "MR.K.ASHOK",
+                                    "MRV.KRIsHNA",
+                                    "MS.M.SHOBANA"
+                                ],
+                                "CourseCode": "180E1HS04"
+                            },
+                            {
+                                "CourseName": "CONNECTED AND AUTONOMOUS VEHICLES",
+                                "Coordinator": "MR.T.S.KRISHNA KUMAR",
+                                "CourseCode": "18OE1AE04"
+                            },
+                            {
+                                "CourseName": "ENERGY MANAGEMENT AND CONSERVATION",
+                                "Coordinator": "Dr.P.Naresh",
+                                "CourseCode": "18OE1EE04"
+                            },
+                            {
+                                "CourseName": "REVERSE ENGINEERING",
+                                "Coordinator": "Dr.M.Venkata Ramana",
+                                "CourseCode": "18OE1ME04"
+                            },
+                            {
+                                "CourseName": "3D PRINTING AND DESIGN",
+                                "Coordinator": "DR.K.JAYA PRAKASH",
+                                "CourseCode": "180E1MEO5"
+                            }
+                        ]
+                    },
+                    "ClassCoordinator": "N.SANDEEP CHAITANYA"
+                }
+            ]
+        }
+    ]
+}

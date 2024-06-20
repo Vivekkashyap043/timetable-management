@@ -1,0 +1,256 @@
+{
+  "institution": "VNR Vignana Jyothi Institute of Engineering & Technology",
+  "location": "Hyderabad",
+  "department": "Computer Science & Engineering",
+  "academic_year": "2019-20",
+  "programme": "B.Tech.",
+  "regulation": "R19",
+  "class": "I Year",
+  "semester": "I",
+  "Class": [
+      {
+          "section": "CSBS",
+          "room_no": "A103",
+          "schedule": {
+              "monday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19ES1CB01","19HS2EN02"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19ES1CB01","19HS2EN02"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19ES1CB01","19HS2EN02"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19BS1PH03"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject": ["19BS1MT03"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["Library"]
+                  }
+              ],
+              "tuesday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19ES1CB01"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject": ["19BS1PH03"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["19BS1MT02"]
+                  }
+              ],
+              "wednesday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19BS1MT02"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19ES1EE03"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19ES1CB01"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19ES1CB01(A110)","19HS2EN02"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject": ["19ES1CB01(A110)","19HS2EN02"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["19ES1CB01(A110)","19HS2EN02"]
+                  }
+              ],
+              "thursday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19BS1MT03"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19BS1PH03"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19BS1MT02"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19ES1EE03"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject": ["19ES1CB01"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["ECA","CCA","Sports"]
+                  }
+              ],
+              "friday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19ES1CB01"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19BS1PH03"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19ES1EE03"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19BS1MT03"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject":[ "19BS1MT02"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["MTP"]
+                  }
+              ],
+              "saturday": [
+                  {
+                      "time": "9.00 AM to 10.00 AM",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "10.00 AM to 11.00 AM",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "11.00 AM to 12.00 N",
+                      "subject": ["19BS1PH03","19ES1EE03"]
+                  },
+                  {
+                      "time": "12.00 N to 12.40 PM",
+                      "subject": ["LUNCH"]
+                  },
+                  {
+                      "time": "12.40 PM to 1.40 PM",
+                      "subject": ["19BS1MT03"]
+                  },
+                  {
+                      "time": "1.40 PM to 2.40 PM",
+                      "subject": ["19ES1EE03"]
+                  },
+                  {
+                      "time": "2.40 PM to 3.40 PM",
+                      "subject": ["CVA-L1"]
+                  }
+              ]
+          },
+          "courses": [
+              {
+                  "code": "19BS1MT02",
+                  "name": "Discrete Mathematics (DM)",
+                  "faculty": ["Dr.N.Pothanna"]
+              },
+              {
+                  "code": "19BS1MT03",
+                  "name": "Introductory Topics in Statistics Probability and Calculus (PS)",
+                  "faculty": ["Mr.V.Ganesh Kumar"]
+              },
+              {
+                  "code": "19ES1CB01",
+                  "name": "Fundamentals of Computer Science(FCS)",
+                  "faculty": ["Dr.S.Nagini"]
+              },
+              {
+                  "code": "19ES1EE03",
+                  "name": "Principles of Electrical Engineering (PEE)",
+                  "faculty": ["Dr.M.Ranjith"]
+              },
+              {
+                  "code": "19BS1PH03",
+                  "name": "Physics for Computing Science(PCS)",
+                  "faculty": ["Mr.P.Pavan Kumar"]
+              },
+              {
+                  "code": "19ES2CB01",
+                  "name": "Fundamentals of Computer Science Laboratory",
+                  "faculty": [
+                      "Dr.S.Nagini",
+                      "Ms.L.JaiVinita",
+                      "Mr.P.Anudeep"
+                  ]
+              },
+              {
+                  "code": "19ES2EE03",
+                  "name": "Principles of Electrical Engineering Laboratory",
+                  "faculty": [
+                      "Dr.M.Ranjith",
+                      "Dr.K.Krishna kumari"
+                  ]
+              },
+              {
+                  "code": "19BS2PH03",
+                  "name": "Physics for Computing Science Laboratory",
+                  "faculty": [
+                      "Mr.P.Pavan Kumar",
+                      "Dr.T.Rajani"
+                  ]
+              },
+              {
+                  "code": "19HS2EN02",
+                  "name": "Business Communication and Value Science – I (BC)",
+                  "faculty": ["Dr.S.Kanchana"]
+              }
+          ],
+          "class_coordinator": "Mrs.R.Vijaya Saraswathi"
+      }
+  ]
+}
